@@ -1,4 +1,4 @@
-![isologotipo de ISPC](https://www.ispc.edu.ar/wp-content/uploads/2020/09/Isologotipo_ISPC_blanco-transparente-300x200.png)
+![isologotipo de ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/246688970_101966488948971_1254348792837607690_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YMJ5JLDfLVEAX8iG7MF&_nc_ht=scontent.fsla4-1.fna&oh=00_AT9QdIwrCqLa3Ivea12F8XtDu5lTbSaJjl8lSaYh8IYmmw&oe=62C0027F)
 
 # **Proyecto-Integrador**
 
@@ -64,3 +64,4 @@ Se trata de aquellas ***reuniones*** que aparecen a lo largo del proyecto y hay 
 * Son los elementos finalizados del *Prouct Backlog* en el sprint (más los incrementos anteriores en el caso de haberlos), es lo que llamaríamos el producto completo, y todos sus elementos deben haber cumplido con la definición de terminado y ser funcional
 * He aqui donde el product owner toma la decision de ponerlo en producción para el uso de los clientes (*Release*).
 
+![imagen ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/277577116_155669553578664_1169744736710124310_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YJf3r43Jjy4AX-yrTBY&_nc_ht=scontent.fsla4-1.fna&oh=00_AT8MLpMYZrYgz8mGwYOlWqBYi-DJ5gvDCdBJ4XPENJNPvA&oe=62C18BC2)
