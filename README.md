@@ -5,7 +5,7 @@
 
 [LINK - Actividad Grupal de Gestión de Proyecto GitHub y Scrum](https://docs.google.com/document/u/2/d/e/2PACX-1vTecj7MGt5aLd4ibNmO90P4II0fp95asnwLAKM1twv-9dAkJIpqWc9rIe643ZInFJJLl85vaW_vr-IV/pub)
 
-Este repositorio se creó con el objetivo de poner a prueba el uso práctico de las herramientas **GIT** y **Las Metodologías Agile**, a través del trabajo colaborativo de un grupo conformado este especificamente por 10 Desarrolladores de su misma **AULA** preferentemente.
+Este repositorio se creó con el objetivo de poner a prueba el uso práctico de las herramientas **GIT** y **Las Metodologías Agile**, a través del trabajo colaborativo de un grupo conformado este específicamente por 10 Desarrolladores de su misma **AULA** preferentemente.
 
 **INTEGRANTES**:arrow_heading_down:
 
