@@ -1,11 +1,13 @@
+![isologotipo_ISPC](https://user-images.githubusercontent.com/95236196/176600098-ff53559d-993a-4a71-9131-1a2fd282fc89.png)
+
 ## **SCRUM**
 
-<p align="center">Es un Marco de Trabajo, iterativo e incremental, que nos permite ser rápidos, flexibles y eficaces. Agregandole valor de manera permanente a cualquier proyecto en el que nos ecnontremos trabajando.<p>
+<p align="center">Es un Marco de Trabajo, iterativo e incremental, que nos permite ser rápidos, flexibles y eficaces. Agregándole valor de manera permanente a cualquier proyecto en el que nos encontremos trabajando.<p>
 
 * ### **Roles** ###
 
 1. **Product Owner - PO**: Es el responsable del producto, quien define y prioriza temas y objetivos con criterios de aceptación.
-2. **Development team** / *Equipo de Desarrollo*: Son aquellos que se encuentran integrados e interrelacionados como un grupo, este mismo es autónomo y auto-organizado, encargados de indentificar como hacer las cosas.
+2. **Development team** / *Equipo de Desarrollo*: Son aquellos que se encuentran integrados e interrelacionados como un grupo, este mismo es autónomo y autoorganizado, encargados de identificar como hacer las cosas.
 3. **Scrum Master**: Este es el facilitador, integrante del grupo de Desarrolladores, actúa como nexo entre el equipo y el PO. A su vez, No tiene poder sobre el equipo, pero ayuda a pensar a todos juntos a como obtener un resultado mejor.
 
 * ### **Ceremonias** ###
@@ -14,8 +16,8 @@ Se trata de aquellas ***reuniones*** que aparecen a lo largo del proyecto y hay 
 
 | Tipos | Cuando se realizan | Objetivo |
 | --- | --- | --- |
- **Sprint Planning Meeting** / *Reunión de Planificación del Sprint* | Al inicar cada Sprint | Decidir lo que se hará durante el mismo |
- **Daily Scrum Meeting** / *Reunión Periódica* | Diariamente, con un limite de Duración de 20 min | Tratar, que es lo que se hizo, que se hará y los problemas que se ecnontraron |
+ **Sprint Planning Meeting** / *Reunión de Planificación del Sprint* | Al iniciar cada Sprint | Decidir lo que se hará durante el mismo |
+ **Daily Scrum Meeting** / *Reunión Periódica* | Diariamente, con un límite de Duración de 20 min | Tratar, que es lo que se hizo, que se hará y los problemas que se encontraron |
  **Sprint Review Meeting** / *Reunión de Revisión del Sprint* | Al finalizar el Sprint | Mostrar lo que se ha completado y lo que no (El product owner debe estar presente)
  **Sprint Retrospective Meeting** / *Reunión de Retrospectiva del Sprint* | También al finalizar el Sprint | Documentar que ha funcionado y que no, para así centrar al equipo en lo que salió bien (dejando de lado lo que salió mal) y dejar en claro lo que se debe mejorar para el próximo Sprint |
 
@@ -26,17 +28,17 @@ Se trata de aquellas ***reuniones*** que aparecen a lo largo del proyecto y hay 
 **Product Backlog** / *Pila de Producto* 
 
 * Es una Lista ordenada de funcionalidades (debe haber solo un Backlog por producto) en un principio y a medida que avanzamos vamos iremos agregando defectos, trabajo técnico, capacitaciones, etc. que se requieren para el producto. 
-* Ésta debe ser clara, detallada y concisa, ya que es dinámica y evoluciona para perfeccionarse y agregar funcionalidades al software, a partir del Refinamiento.
+* Esta debe ser clara, detallada y concisa, ya que es dinámica y evoluciona para perfeccionarse y agregar funcionalidades al software, a partir del Refinamiento.
 
-**Sprint Backlog** / *Pîla del Sprint*
+**Sprint Backlog** / *Pila del Sprint*
 
-* Es un conjunto de items seleccionados del *Product Backlog* para realizar el sprint en forma de tareas, esto se volverá el compromiso del equipo de desarrollo al terminar el sprint para así poder realizar el incremento del producto.
+* Es un conjunto de ítems seleccionados del *Product Backlog* para realizar el sprint en forma de tareas, esto se volverá el compromiso del equipo de desarrollo al terminar el sprint para así poder realizar el incremento del producto.
 * Se volverá fuente para generación de reportes de avance.
 
 
-**Increment o Product Increment** / *Incremento o Incrementeo del producto*
+**Increment o Product Increment** / *Incremento o Incremento del producto*
 
 * Son los elementos finalizados del *Prouct Backlog* en el sprint (más los incrementos anteriores en el caso de haberlos), es lo que llamaríamos el producto completo, y todos sus elementos deben haber cumplido con la definición de terminado y ser funcional
-* He aqui donde el product owner toma la decision de ponerlo en producción para el uso de los clientes (*Release*).
+* He aquí donde el product owner toma la decisión de ponerlo en producción para el uso de los clientes (*Release*).
 
-![imagen ISPC](https://www.ispc.edu.ar/wp-content/uploads/2020/09/Isologotipo_ISPC_blanco-transparente-300x200.png)
+![imagen ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/277577116_155669553578664_1169744736710124310_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YJf3r43Jjy4AX-yrTBY&_nc_ht=scontent.fsla4-1.fna&oh=00_AT8MLpMYZrYgz8mGwYOlWqBYi-DJ5gvDCdBJ4XPENJNPvA&oe=62C18BC2)
