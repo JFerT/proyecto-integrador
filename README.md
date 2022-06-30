@@ -1,4 +1,5 @@
-![isologotipo de ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/246688970_101966488948971_1254348792837607690_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=YMJ5JLDfLVEAX8iG7MF&_nc_ht=scontent.fsla4-1.fna&oh=00_AT9QdIwrCqLa3Ivea12F8XtDu5lTbSaJjl8lSaYh8IYmmw&oe=62C0027F)
+![isologotipo_ISPC](https://user-images.githubusercontent.com/95236196/176600098-ff53559d-993a-4a71-9131-1a2fd282fc89.png)
+
 
 # **Proyecto-Integrador**
 
@@ -6,7 +7,7 @@
 
 Este repositorio se creó con el objetivo de poner a prueba el uso práctico de las herramientas **GIT** y **Las Metodologías Agile**, a través del trabajo colaborativo de un grupo conformado este especificamente por 10 Desarrolladores de su misma **AULA** preferentemente.
 
-<details><summary>INTEGRANTES</summary>
+**INTEGRANTES**:arrow_heading_down:
 
 | Integrante Nº | Nombre y Apellido | Correo | Usuario de GitHub | Rol |
 | --- | --- | --- | --- | --- |
@@ -20,7 +21,5 @@ Este repositorio se creó con el objetivo de poner a prueba el uso práctico de 
 8 | Francisco Giachero | giacherofranc22@gmail.com | [@Frangia22](https://github.com/Frangia22) | Developer |
 9 | Valentino Giannico	| valentinogiannico04@gmail.com | [@Valenn4](https://github.com/Valenn4) | Developer |
 10 | Joana Katherine Meza	 |joanakathemeza@hotmail.com | [@Joanamezaok](https://github.com/Joanamezaok) | Developer |
-
-</details>
 
 ![imagen ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/277577116_155669553578664_1169744736710124310_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YJf3r43Jjy4AX-yrTBY&_nc_ht=scontent.fsla4-1.fna&oh=00_AT8MLpMYZrYgz8mGwYOlWqBYi-DJ5gvDCdBJ4XPENJNPvA&oe=62C18BC2)
