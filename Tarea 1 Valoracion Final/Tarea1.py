@@ -1,3 +1,5 @@
+/*Ejercicio 10*/
+
 
 Clientes = ["Juan",  "Mario",  "Ariel",  "Josefina",  "Marianella"]
 
