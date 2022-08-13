@@ -1,7 +1,7 @@
 create database peluqueria;
 use peluqueria;
 
--- CONSULTA NUMERO 1 --
+-- Consulta 1 --
 create table dueno(
 	DNI int not null,
     Nombre varchar(50) not null,
@@ -32,12 +32,13 @@ create table historial(
     FOREIGN KEY (Perro) REFERENCES perro (ID_Perro)
 );
 
--- CONSULTA NUMERO 2 -- 
+-- Consulta 2 -- 
 INSERT INTO dueno(DNI, Nombre, Apellido, Telefono, Direccion) VALUES (37956312, "Diego", "Cabrera", "2352505048", "Velez Sarsfield 85");
 INSERT INTO perro(ID_Perro, Nombre, Fecha_nac, Sexo, DNI_dueno) VALUES (1, "Max", "10/8/2018", "Macho", 37956312);
 
--- CONSULTA NUMERO 4 --
+-- Consulta 4 --
 SELECT * FROM perro;
 UPDATE perro
 SET fecha_nac = "25/3/2020"
 WHERE ID_Perro = 19
+
