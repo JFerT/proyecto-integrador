@@ -24,4 +24,4 @@ Este repositorio se creó con el objetivo de poner a prueba el uso práctico de 
 9 | Valentino Giannico	| valentinogiannico04@gmail.com | [@Valenn4](https://github.com/Valenn4) | Developer |
 10 | Joana Katherine Meza	 |joanakathemeza@hotmail.com | [@Joanamezaok](https://github.com/Joanamezaok) | Developer |
 
-![imagen ISPC](https://scontent.fsla4-1.fna.fbcdn.net/v/t39.30808-6/277577116_155669553578664_1169744736710124310_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=YJf3r43Jjy4AX-yrTBY&_nc_ht=scontent.fsla4-1.fna&oh=00_AT8MLpMYZrYgz8mGwYOlWqBYi-DJ5gvDCdBJ4XPENJNPvA&oe=62C18BC2)
+
